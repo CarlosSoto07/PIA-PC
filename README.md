@@ -21,8 +21,7 @@ ingresar -d y la ip deseada a analizar (puerta de enlace predeterminada)_
 _example: py main.py -d 192.168.100.1_
 
 ### hunter: 
--k para ingresar apikey de hunter
--t archivo txt con los correos a buscar
+-k para ingresar apikey de hunter                                                                                                                                                -t archivo txt con los correos a buscar
 _example: py main.py -k 7423f7ac035e69bd7552283469acf1f4f4bdd564 -t correosHunter.py_
 
 ### metadatos: 
