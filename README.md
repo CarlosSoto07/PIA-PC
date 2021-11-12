@@ -9,15 +9,15 @@ pip install -r requierements.txt
 
 ## Herramientas de Ciberseguridad
 
-_webscrapping: solo ingresar -w _
+_webscrapping: solo ingresar -w_
 
 _correos: ingresar -c y llenar input de destinatario ,asunto y contraseña de remitente_
 
 _dns: ingresar -d y la ip deseada a analizar (puerta de enlace predeterminada)_
 example: py main.py -d 192.168.100.1
 
-_hunter: -k para ingresar apikey de hunter
-         -t archivo txt con los correos a buscar_
+_hunter: -k para ingresar apikey de hunter_
+         _-t archivo txt con los correos a buscar_
 example: py main.py -k 7423f7ac035e69bd7552283469acf1f4f4bdd564 -t correosHunter.py
 
 _metadatos: -m ingresar la ruta de la carpeta con los archivos .pdf y .jpg_
