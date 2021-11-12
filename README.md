@@ -33,8 +33,8 @@ _example: py main.py  C:\Users\carlo\Desktop\PC\PIA\Metadata_
 -z comprime en un archivo .zip todos los archivos necesarios para el PIA
 
 ## Integrantes 
--Carlos Adrián Soto Serna
--Jose Humberto Martinez Peña
--Luis Julian Ramos Castañeda
--Andrea Paola Arzate Rodriguez
--Gerson Emannuel Reyes Contreras
+Carlos Adrián Soto Serna
+Jose Humberto Martinez Peña
+Luis Julian Ramos Castañeda
+Andrea Paola Arzate Rodriguez
+Gerson Emannuel Reyes Contreras
