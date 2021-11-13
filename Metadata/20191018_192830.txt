@@ -1,0 +1,37 @@
+Metadata: ImageWidth - Value: 4032 
+Metadata: ImageLength - Value: 3024 
+Metadata: GPSInfo - Value: {1: 'N', 2: (25.0, 43.0, 31.94688), 3: 'W', 4: (100.0, 18.0, 55.196999)} 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: ExifOffset - Value: 238 
+Metadata: Make - Value: samsung 
+Metadata: Model - Value: SM-G970F 
+Metadata: Software - Value: G970FXXU3ASIG 
+Metadata: Orientation - Value: 1 
+Metadata: DateTime - Value: 2019:10:18 19:28:29 
+Metadata: YCbCrPositioning - Value: 1 
+Metadata: XResolution - Value: 72.0 
+Metadata: YResolution - Value: 72.0 
+Metadata: ExifVersion - Value: b'0220' 
+Metadata: ShutterSpeedValue - Value: 0.016666666666666666 
+Metadata: ApertureValue - Value: 2.52 
+Metadata: DateTimeOriginal - Value: 2019:10:18 19:28:29 
+Metadata: DateTimeDigitized - Value: 2019:10:18 19:28:29 
+Metadata: BrightnessValue - Value: 5.48 
+Metadata: ExposureBiasValue - Value: 0.0 
+Metadata: MaxApertureValue - Value: 2.52 
+Metadata: MeteringMode - Value: 2 
+Metadata: Flash - Value: 0 
+Metadata: FocalLength - Value: 4.32 
+Metadata: ColorSpace - Value: 1 
+Metadata: ExifImageWidth - Value: 4032 
+Metadata: DigitalZoomRatio - Value: 1.0 
+Metadata: FocalLengthIn35mmFilm - Value: 26 
+Metadata: SceneCaptureType - Value: 0 
+Metadata: ExifImageHeight - Value: 3024 
+Metadata: ExposureTime - Value: 0.016666666666666666 
+Metadata: FNumber - Value: 2.4 
+Metadata: ImageUniqueID - Value: L12XLLD00SM 
+Metadata: ExposureProgram - Value: 2 
+Metadata: ISOSpeedRatings - Value: 200 
+Metadata: ExposureMode - Value: 0 
+Metadata: WhiteBalance - Value: 0 

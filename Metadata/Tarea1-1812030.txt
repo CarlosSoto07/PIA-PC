@@ -1,0 +1,8 @@
+Título: None
+Páginas: 1
+Tipo: <class 'PyPDF2.pdf.DocumentInformation'>
+[+] /Author:carlossotoserna@gmail.com
+[+] /CreationDate:D:20210207211012-06'00'
+[+] /ModDate:D:20210207211012-06'00'
+[+] /Producer:Microsoft® Excel® 2013
+[+] /Creator:Microsoft® Excel® 2013
