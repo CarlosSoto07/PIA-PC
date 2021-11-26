@@ -30,7 +30,7 @@ _example: py main.py -d 192.168.100.1_
 
 -t archivo txt con los correos a buscar
 
-_example: py main.py -k 7423f7ac035e69bd7552283469acf1f4f4bdd564 -t correosHunter.py_
+_example: py main.py -k 7423f7ac035e69bd7552283469acf1f4f4bdd564 -t correosHunter.txt_
 
 
 ### metadatos: 
