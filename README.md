@@ -13,11 +13,11 @@ pip install -r requierements.txt
 
 
 ### webscrapping:
-solo ingresar -w
+solo ingresar -w para que inicie la descarga de imagenes de un sitio web y la creacion de su carpeta
 
 
 ### correos: 
-ingresar -c y llenar input de destinatario ,asunto y contraseña de remitente_
+ingresar -c y llenar input de destinatario ,asunto y contraseña de remitente
 
 
 ### dns: 
@@ -39,8 +39,12 @@ _example: py main.py -k 7423f7ac035e69bd7552283469acf1f4f4bdd564 -t correosHunte
 _example: py main.py  C:\Users\carlo\Desktop\PC\PIA\Metadata_
 
 
-### zip: 
--z comprime en un archivo .zip todos los archivos necesarios para el PIA
+### vTotal: 
+-a Solicita la apikey del sitio VirusTotal para poder realizar el analisis de las urls
+
+-tv Ingresar el nombre del archivo con las urls a analizar
+
+_example: py main.py -a key VirusTotal -tv urls.txt
 
 
 ## Integrantes 
@@ -50,6 +54,3 @@ Jose Humberto Martinez Peña
 
 Luis Julian Ramos Castañeda
 
-Andrea Paola Arzate Rodriguez
-
-Gerson Emannuel Reyes Contreras
