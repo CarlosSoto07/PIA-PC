@@ -44,7 +44,7 @@ _example: py main.py  C:\Users\carlo\Desktop\PC\PIA\Metadata_
 
 -tv Ingresar el nombre del archivo con las urls a analizar
 
-_example: py main.py -a key VirusTotal -tv urls.txt
+_example: py main.py -a key VirusTotal -tv urls.txt_
 
 
 ## Integrantes 
