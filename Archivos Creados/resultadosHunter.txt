@@ -1,0 +1,27 @@
+La respuesta HTTP para antoniosartori@google.com
+ es 200
+El correo se encontró en 7 sitios web:
+0	http://github.com	status: 200
+1	http://cos.googlesource.com	status: 200
+2	http://chromium.googlesource.com	status: 200
+3	http://chromium.googlesource.com	status: 200
+4	http://chromium.googlesource.com	status: 200
+5	http://chromium.googlesource.com	status: 200
+6	http://chromium.googlesource.com	status: 200
+
+La respuesta HTTP para rogelio.garza@uanl.mx
+ es 200
+El correo se encontró en 8 sitios web:
+0	http://uanl.mx	status: 200
+1	http://universidad.uanl.mx	status: 404 Falló en conexion
+2	http://oui-iohe.org	status: 200
+3	http://oui-iohe.org	status: 200
+4	http://oui-iohe.org	status: 200
+5	http://oui-iohe.org	status: 200
+6	http://oui-iohe.org	status: 200
+7	http://uanl.mx	status: 200
+
+La respuesta HTTP para sotonana65@gmail.com
+ es 200
+El correo se encontró en 0 sitios web:
+

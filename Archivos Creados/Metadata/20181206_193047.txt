@@ -1,0 +1,41 @@
+Metadata: ResolutionUnit - Value: 2 
+Metadata: ExifOffset - Value: 202 
+Metadata: Make - Value: samsung 
+Metadata: Model - Value: SM-G610M 
+Metadata: Software - Value: G610MUBU1AQG1 
+Metadata: Orientation - Value: 6 
+Metadata: DateTime - Value: 2018:12:06 19:30:47 
+Metadata: YCbCrPositioning - Value: 1 
+Metadata: XResolution - Value: 72.0 
+Metadata: YResolution - Value: 72.0 
+Metadata: ExifVersion - Value: b'0220' 
+Metadata: ShutterSpeedValue - Value: 4.91 
+Metadata: ApertureValue - Value: 1.85 
+Metadata: DateTimeOriginal - Value: 2018:12:06 19:30:47 
+Metadata: DateTimeDigitized - Value: 2018:12:06 19:30:47 
+Metadata: BrightnessValue - Value: 2.13 
+Metadata: ExposureBiasValue - Value: 0.0 
+Metadata: MaxApertureValue - Value: 1.85 
+Metadata: MeteringMode - Value: 2 
+Metadata: Flash - Value: 0 
+Metadata: FocalLength - Value: 3.6 
+Metadata: UserComment - Value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' 
+Metadata: ColorSpace - Value: 1 
+Metadata: ExifImageWidth - Value: 4128 
+Metadata: ExifInteroperabilityOffset - Value: 828 
+Metadata: SceneCaptureType - Value: 0 
+Metadata: SubsecTime - Value: 0038 
+Metadata: SubsecTimeOriginal - Value: 0038 
+Metadata: SubsecTimeDigitized - Value: 0038 
+Metadata: ExifImageHeight - Value: 3096 
+Metadata: ExposureTime - Value: 0.03333333333333333 
+Metadata: FNumber - Value: 1.9 
+Metadata: ImageUniqueID - Value: W13LSJA00PM W13LSKA01SA
+ 
+Metadata: ExposureProgram - Value: 2 
+Metadata: ISOSpeedRatings - Value: 64 
+Metadata: ExposureMode - Value: 0 
+Metadata: FlashPixVersion - Value: b'0100' 
+Metadata: WhiteBalance - Value: 0 
+Metadata: FocalLengthIn35mmFilm - Value: 27 
+Metadata: MakerNote - Value: b'\x07\x00\x01\x00\x07\x00\x04\x00\x00\x000100\x02\x00\x04\x00\x01\x00\x00\x00\x00 \x01\x00\x0c\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x10\x00\x05\x00\x01\x00\x00\x00Z\x00\x00\x00@\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00P\x00\x04\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' 

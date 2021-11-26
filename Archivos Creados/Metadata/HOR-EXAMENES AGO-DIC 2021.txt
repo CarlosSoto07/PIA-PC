@@ -1,0 +1,8 @@
+Título: None
+Páginas: 25
+Tipo: <class 'PyPDF2.pdf.DocumentInformation'>
+[+] /Author:Thelma g
+[+] /CreationDate:D:20211026125225-05'00'
+[+] /ModDate:D:20211026125225-05'00'
+[+] /Producer:Microsoft® Excel® 2016
+[+] /Creator:Microsoft® Excel® 2016
